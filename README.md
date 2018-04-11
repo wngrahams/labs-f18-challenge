@@ -41,7 +41,7 @@ Commit all of the changes you have made and push them to the fork of this repo y
 
 Task 5
 -------------
-Create a new branch from `master` and name it `dev`. On this branch, create a dynamic endpoint called `/pokemon`. A user queries this endpoint but giving either an id or a name. Your task is given an id or a name, display the name or id of that pokemon respectively on your webpage. According to [pokeapi](https://www.pokeapi.co/),
+Create a new branch from `master` on your fork and name it `dev`. On this branch, create a dynamic endpoint called `/pokemon`. A user queries this endpoint by giving either an id or a name. Your task is given an id or a name, display the name or id of that pokemon respectively on your webpage. According to [pokeapi](https://www.pokeapi.co/),
 > Pokémon are the creatures that inhabit the world of the Pokémon games. They can be caught using Pokéballs and trained by battling with other Pokémon.
 
 For example, if I navigate to `localhost:5000/pokemon/1`, my page might look like the following:
@@ -50,9 +50,9 @@ For example, if I navigate to `localhost:5000/pokemon/1`, my page might look lik
 Similarly, if I navigate to `localhost:5000/pokemon/blastoise`, my page will look like the following:
 ![name_example](images/name.png)
 
-You will find these libraries and websites to be useful:
+You will find these libraries and websites helpful in completing this task:
 - [Requests](http://docs.python-requests.org/en/master/)
-- [PokeAPI](https://www.pokeapi.co/) and specifically [this page](https://www.pokeapi.co/docsv2/#pokemon)
+- [PokeAPI](https://www.pokeapi.co/) -- specifically [this page](https://www.pokeapi.co/docsv2/#pokemon)
 
 
 Task 6
