@@ -26,6 +26,7 @@ Fork this repository.
 
 Task 2
 -------------
+
 Create a new branch from `master` and name it `dev` on your forked repo. Clone the repo (if you haven't already).
 
 Task 3 (The important one)
