@@ -15,7 +15,6 @@ This challenge should take about 30 minutes to complete and requires Python 3 (a
 
 The Problem
 -------------
-
 ADI wants to showcase some of the awesome students here at Columbia. We want to make a webpage for each student with their name and their favorite picture. However, the ADI committee has been procrastinating by watching reruns of Pokemon episodes and their other favorite shows on Netflix.
 
 That's where you come in; we need your help adding a page dedicated to you on our new showcase website.
